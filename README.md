@@ -9,14 +9,11 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MathMagal&theme=gotham&hide_border=true&area=true)
 
-<div align="center">  
-<a href="https://www.instagram.com/magal_matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/matheus-magalh%C3%A3es-b313b7178/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
-</div> 
+
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java-original&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cPlusPlus&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment:
@@ -31,6 +28,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+## Social Media:
+<div align="center">  
+<a href="https://www.instagram.com/magal_matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/matheus-magalh%C3%A3es-b313b7178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
