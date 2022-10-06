@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/MathMagal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathMagal&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathMagal&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MathMagal&show_icons=true&theme=tokyonight"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathMagal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MathMagal&theme=tokyo-night&hide_border=true&area=true)
