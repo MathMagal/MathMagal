@@ -7,11 +7,19 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MathMagal&show_icons=true&theme=tokyonight"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathMagal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
+<br>
 
 ### Availabe Repository
+<br>
+<div align="center">
 <a href="https://github.com/MathMagal/Project-Filters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Project-Filters&show_icons=true&theme=tokyonight" />
+  <img width="40%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Project-Filters&show_icons=true&theme=tokyonight" />
 </a>
+<a href="https://github.com/MathMagal/Microcontroller-Project">
+  <img width="40%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Microcontroller-Project&show_icons=true&theme=tokyonight" />
+</a>
+</div>
 
   
 
