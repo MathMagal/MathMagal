@@ -2,6 +2,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6da2f9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Magalhães;I+study+computer+engineering+at+IFSP;Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
+<br>
+
 <div align="center">
   <a href="https://github.com/MathMagal">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MathMagal&show_icons=true&theme=tokyonight"/>
@@ -14,11 +17,16 @@
 <br>
 <div align="center">
 <a href="https://github.com/MathMagal/Project-Filters">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Project-Filters&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Project-Filters&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/MathMagal/Microcontroller-Project">
-  <img height="50%"" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Microcontroller-Project&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Microcontroller-Project&show_icons=true&theme=tokyonight" />
 </a>
+<br>
+<a href="https://github.com/MathMagal/Workshop-management ">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Workshop-management&show_icons=true&theme=tokyonight" />
+</a>
+
 </div>
 
   
