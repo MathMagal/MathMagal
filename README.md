@@ -17,14 +17,14 @@
 <br>
 <div align="center">
 <a href="https://github.com/MathMagal/Project-Filters">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Project-Filters&show_icons=true&theme=tokyonight" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Project-Filters&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/MathMagal/Microcontroller-Project">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Microcontroller-Project&show_icons=true&theme=tokyonight" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Microcontroller-Project&show_icons=true&theme=tokyonight" />
 </a>
 <br>
 <a href="https://github.com/MathMagal/Workshop-management ">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Workshop-management&show_icons=true&theme=tokyonight" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=MathMagal&repo=Workshop-management&show_icons=true&theme=tokyonight" />
 </a>
 
 </div>
