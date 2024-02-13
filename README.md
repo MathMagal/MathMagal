@@ -34,7 +34,7 @@
 
 ### Main Skills:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-00589C?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 
@@ -58,6 +58,8 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-00000F?style=for-the-badge&logo=github&labelColor=00000F)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-F53E88.svg?style=for-the-badge&logo=plsql&logoColor=white)
+
 
 ## Social Media:
 <div align="center">  
