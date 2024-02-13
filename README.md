@@ -57,6 +57,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2B579A?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2B579A)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-00000F?style=for-the-badge&logo=github&labelColor=00000F)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Social Media:
 <div align="center">  
