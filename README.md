@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/MathMagal">
-  <img width="49%" height="195px" src="https://github-readme-stats-mathemagals-projects.vercel.app/api?username=MathMagal&theme=tokyonight&mode=weekly"/>
-  <img width="41%" height="195px" src="https://github-readme-stats-eight-henna-30.vercel.app/api/top-langs/?username=MathMagal&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MathMagal&theme=tokyonight&mode=weekly"/>
+  <img width="41%" height="195px" src="https://github-readme-stats-tau-virid-21.vercel.app/api/top-langs/?username=MathMagal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <br>
